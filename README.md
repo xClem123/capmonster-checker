@@ -28,7 +28,7 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
    py main.py
 
 # Licence 📜
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d’informations.
+Ce projet est sous licence GNU . Consultez le fichier LICENSE pour plus d’informations.
 
 # Remerciements 🙏
 Un grand merci à l’équipe de CapMonster pour leur API incroyable et à tous les contributeurs de ce projet.
