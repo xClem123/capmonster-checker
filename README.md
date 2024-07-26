@@ -23,8 +23,8 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
    git clone https://github.com/beatch-service/capmonster-checker.git
    cd capmonster-checker
 
-2. Lancer le scrypt :
-   '''sh
+2. Lancer le script :
+   ```sh
    py main.py
 
 # Licence 📜
