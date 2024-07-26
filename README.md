@@ -27,8 +27,16 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
    ```sh
    py main.py
 
-# Licence 📜
-Ce projet est sous licence GNU . Consultez le fichier LICENSE pour plus d’informations.
+## 📜 Licence
+
+Ce projet est sous licence GPL-3.0 📜. Vous pouvez utiliser, modifier et distribuer ce code comme vous le souhaitez, à condition de respecter les termes de la licence.
+
+**Conditions de la licence GPL-3.0 :**
+
+* Vous devez conserver la notice de copyright et la licence dans toutes les copies du code.
+* Vous devez fournir une copie de la licence avec chaque copie du code.
+* Vous devez indiquer clairement les modifications que vous avez apportées au code.
+* Vous devez distribuer le code sous la même licence GPL-3.0.
 
 # Remerciements 🙏
 Un grand merci à l’équipe de CapMonster pour leur API incroyable et à tous les contributeurs de ce projet.
