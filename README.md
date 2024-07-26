@@ -21,10 +21,13 @@ Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 1. Clonez le dépôt du projet :
    ```sh
    git clone https://github.com/beatch-service/capmonster-checker.git
-   cd capmonster-checker 
+   cd capmonster-checker
+
+2. Lancer le scrypt :
+   '''sh
    py main.py
 
-#Licence 📜
+# Licence 📜
 Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d’informations.
 
 # Remerciements 🙏
