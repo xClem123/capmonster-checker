@@ -12,7 +12,7 @@ Ce projet est un script de vérification utilisant CapMonster pour résoudre des
 
 Avant de commencer, assurez-vous d'avoir les éléments suivants installés :
 
-- Python 3.x
+- Python 3.11.9
 - pip (gestionnaire de paquets Python)
 - Un compte CapMonster avec une clé API valide
 
